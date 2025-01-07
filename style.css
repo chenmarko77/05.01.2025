@@ -53,3 +53,17 @@ body {
     font-size: 80px;
     background-color: #45a049;
   }
+
+  .carp{
+    height: 100px;
+    display: none;
+  }
+
+  .toggle{
+    height: 100px;
+  }
+
+  body{
+    display: flex;
+    flex-direction: column;
+  }
